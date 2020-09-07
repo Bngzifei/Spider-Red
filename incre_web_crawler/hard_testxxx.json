@@ -1,0 +1,182 @@
+[
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1117423",
+    "id": "1117423",
+    "allTitle": "ThinkServer RS240",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Server",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64",
+    "detail": [
+      {
+        "product": "Red Hat Enterprise Linux",
+        "version": "7.0 - 7.x",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat Enterprise Linux",
+        "version": "6.5 - 6.x",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat Enterprise Linux",
+        "version": "5.10 - 5.x",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform for Compute",
+        "version": "13.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "12.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "11.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "10.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "9.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "8.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "7.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform for Compute",
+        "version": "14.0 - 14.x",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat Virtualization",
+        "version": "4.2 - 4.3",
+        "arch": "x86_64",
+        "label": "Certified"
+      }
+    ]
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1117473",
+    "id": "1117473",
+    "allTitle": "PRIMERGY TX1310 M1",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Server",
+    "c_catalog_vendor": "Fujitsu",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64",
+    "detail": [
+      {
+        "product": "Red Hat Enterprise Linux",
+        "version": "7.x",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat Enterprise Linux",
+        "version": "6.4 - 6.x",
+        "arch": "i386",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform for Compute",
+        "version": "13.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "12.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "11.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "10.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "9.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "8.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "7.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "6.0",
+        "arch": "x86_64",
+        "label": "Enabled"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "6.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform",
+        "version": "5.0",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat OpenStack Platform for Compute",
+        "version": "14.0 - 14.x",
+        "arch": "x86_64",
+        "label": "Certified"
+      },
+      {
+        "product": "Red Hat Virtualization",
+        "version": "4.2 - 4.3",
+        "arch": "x86_64",
+        "label": "Certified"
+      }
+    ]
+  }
+]

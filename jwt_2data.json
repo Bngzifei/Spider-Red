@@ -1,0 +1,70 @@
+{
+  "jti": "337fbfad-876a-4955-b72a-aaafb36224b2",
+  "exp": 1593398915,
+  "nbf": 0,
+  "iat": 1593398015,
+  "iss": "https://sso.redhat.com/auth/realms/redhat-external",
+  "aud": "customer-portal",
+  "sub": "f:528d76ff-f708-43ed-8cd5-fe16f4fe0ce6:rd.sangfor",
+  "typ": "Bearer",
+  "azp": "customer-portal",
+  "nonce": "aed096e2-5fa2-45de-8ad6-7dd01ead9d96",
+  "auth_time": 1593398012,
+  "session_state": "08e2d799-aa62-40f0-ba82-cfd94c8cba6e",
+  "acr": "0",
+  "allowed-origins": [
+    "https://prod.foo.redhat.com:1337",
+    "https://www.redhat.com",
+    "https://access.redhat.com"
+  ],
+  "realm_access": {
+    "roles": [
+      "authenticated",
+      "candlepin_system_access_view_edit_personal",
+      "idp_authenticated",
+      "portal_manage_subscriptions",
+      "errata:notification_status_enabled",
+      "errata:notification_delivery_weekly",
+      "portal_manage_cases",
+      "errata:notification:security",
+      "errata:notification_level_system-visible",
+      "errata:notification:bugfix",
+      "admin:org:all",
+      "uma_authorization",
+      "portal_system_management",
+      "rhd_access_middleware",
+      "portal_download"
+    ]
+  },
+  "resource_access": {
+    "rhd-dm": {
+      "roles": [
+        "rhuser"
+      ]
+    },
+    "account": {
+      "roles": [
+        "manage-account",
+        "manage-account-links",
+        "view-profile"
+      ]
+    }
+  },
+  "REDHAT_LOGIN": "rd.sangfor",
+  "lastName": "sangfor",
+  "country": "CN",
+  "account_number": "6080277",
+  "preferred_username": "rd.sangfor",
+  "firstName": "rd",
+  "account_id": "11728178",
+  "user_id": "51768269",
+  "organization_id": "00Dm0000000116C",
+  "siteId": "redhat",
+  "siteID": "redhat",
+  "portal_id": "06060000000D0af",
+  "lang": "zh_CN",
+  "region": "CN",
+  "email": "rd.sangfor@gmail.com",
+  "RHAT_LOGIN": "rd.sangfor",
+  "username": "rd.sangfor"
+}

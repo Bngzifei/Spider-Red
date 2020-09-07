@@ -1,0 +1,63 @@
+[
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673741",
+    "id": "4673741",
+    "allTitle": "Micron-5300 MTFDDAV1T9TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64",
+    "detail": "Products Version Arch Level Notes Additional Information\nRed Hat Enterprise Linux 8.0 - 8.x x86_64 Certified Details\nRed Hat Enterprise Linux 7.5 - 7.x x86_64 Certified"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673861",
+    "id": "4673861",
+    "allTitle": "Micron-5300 MTFDDAK3T8TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64",
+    "detail": "Products Version Arch Level Notes Additional Information\nRed Hat Enterprise Linux 8.0 - 8.x x86_64 Certified Details\nRed Hat Enterprise Linux 7.5 - 7.x x86_64 Certified"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673931",
+    "id": "4673931",
+    "allTitle": "Micron-5300 MTFDDAK480TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64",
+    "detail": [
+      {
+        "Products": "Red Hat Enterprise Linux",
+        "Version": "8.0 - 8.x",
+        "Arch": "x86_64",
+        "Level": "Certified",
+        "Notes": "",
+        "Additional": "",
+        "Information": ""
+      },
+      {
+        "Products": "Red Hat Enterprise Linux",
+        "Version": "8.0 - 8.x",
+        "Arch": "x86_64",
+        "Level": "Certified",
+        "Notes": "",
+        "Additional": "",
+        "Information": ""
+      },
+      {
+        "Products": "Red Hat Enterprise Linux",
+        "Version": "8.0 - 8.x",
+        "Arch": "x86_64",
+        "Level": "Certified",
+        "Notes": "",
+        "Additional": "",
+        "Information": ""
+      }
+    ]
+  }
+]

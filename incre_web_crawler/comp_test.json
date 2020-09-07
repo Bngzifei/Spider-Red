@@ -1,0 +1,22 @@
+[
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673861",
+    "id": "4673861",
+    "allTitle": "Micron-5300 MTFDDAK3T8TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673931",
+    "id": "4673931",
+    "allTitle": "Micron-5300 MTFDDAK480TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  }
+]

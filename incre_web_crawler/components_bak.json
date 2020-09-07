@@ -1,0 +1,2033 @@
+[
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1221503",
+    "id": "1221503",
+    "allTitle": "Intel Solid-State Drive DC P3700 (1.6TB)",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Intel Corporation",
+    "portal_thumbnail": "",
+    "ch_architecture": "i386"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1271723",
+    "id": "1271723",
+    "allTitle": "Broadcom NetXtreme Gigabit Ethernet BCM5723",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Broadcom",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1271763",
+    "id": "1271763",
+    "allTitle": "Broadcom NetXtreme Gigabit Ethernet BCM5720",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Broadcom",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1280613",
+    "id": "1280613",
+    "allTitle": "Broadcom NetXtreme Gigabit Ethernet BCM5717",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Broadcom",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1315693",
+    "id": "1315693",
+    "allTitle": "Intel Solid-State Drive DC P3600",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Intel Corporation",
+    "portal_thumbnail": "",
+    "ch_architecture": "i386"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1344203",
+    "id": "1344203",
+    "allTitle": "ConnectX-3 ConnectX-3 Pro Single/Dual-Port Adapter ",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Mellanox",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425103",
+    "id": "1425103",
+    "allTitle": "AOC AOC-UTG-I2",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425133",
+    "id": "1425133",
+    "allTitle": "AOC AOC-UG-I4",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425173",
+    "id": "1425173",
+    "allTitle": "AOC AOC-STGN-I1S",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425193",
+    "id": "1425193",
+    "allTitle": "AOC AOC-STG-I2",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425223",
+    "id": "1425223",
+    "allTitle": "AOC AOC-STG-b4S",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425243",
+    "id": "1425243",
+    "allTitle": "AOC AOC-SG-I2",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425263",
+    "id": "1425263",
+    "allTitle": "AOC AOC-SG-i4",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425283",
+    "id": "1425283",
+    "allTitle": "AOC AOC-SGP-i4",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425303",
+    "id": "1425303",
+    "allTitle": "AOC AOC-SGP-i2",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425323",
+    "id": "1425323",
+    "allTitle": "AOC AOC-PG-I2+",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425343",
+    "id": "1425343",
+    "allTitle": "AOC AOC-S3108L-H8iR",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425363",
+    "id": "1425363",
+    "allTitle": "AOC AOC-S3008L-L8e",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425383",
+    "id": "1425383",
+    "allTitle": "AOC AOC-S3008L-L8i",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425403",
+    "id": "1425403",
+    "allTitle": "AOC AOC-SAS2LP-MV8",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425423",
+    "id": "1425423",
+    "allTitle": "AOC AOC-USAS2-L8i",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425443",
+    "id": "1425443",
+    "allTitle": "AOC AOC-IBH-X3QD",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1425463",
+    "id": "1425463",
+    "allTitle": "AOC AOC-IBH-X3QS",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1470103",
+    "id": "1470103",
+    "allTitle": "Emulex - LightPulse - Lpe16002B",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Emulex",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1489823",
+    "id": "1489823",
+    "allTitle": "LightPulse LightPulse Lpe16002B",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Emulex",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1493683",
+    "id": "1493683",
+    "allTitle": "Greenliant Systems, LTD. - G-Card - G7101",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Greenliant Systems, LTD.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1508583",
+    "id": "1508583",
+    "allTitle": "AOC AOC-CIBF-m1",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1508613",
+    "id": "1508613",
+    "allTitle": "AOC AOC-CIBQ-m1",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1508633",
+    "id": "1508633",
+    "allTitle": "AOC AOC-CTG-i1S",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1508683",
+    "id": "1508683",
+    "allTitle": "AOC AOC-CTG-i2S",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1508703",
+    "id": "1508703",
+    "allTitle": "AOC AOC-CTG-i2T",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1508743",
+    "id": "1508743",
+    "allTitle": "AOC AOC-CGP-i2",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1521223",
+    "id": "1521223",
+    "allTitle": "Emulex - OneConnect - Oce14102-UX",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Emulex",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1528323",
+    "id": "1528323",
+    "allTitle": "G-Card G7102",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Greenliant Systems, LTD.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1554293",
+    "id": "1554293",
+    "allTitle": "Connect-IB Connect-IB Single/Dual-Port InfiniBand Host Channel Adapter Cards (FDR)",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Mellanox",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2211831",
+    "id": "2211831",
+    "allTitle": "AOC AOC-S40G-i2Q",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2334361",
+    "id": "2334361",
+    "allTitle": "Ultrastar SN150",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "HGST",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2422531",
+    "id": "2422531",
+    "allTitle": "Ultrastar SN100 HUSPR3216ADP301 / 0T00837",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "HGST",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2423701",
+    "id": "2423701",
+    "allTitle": "AOC AOC-MGP-i2",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2449521",
+    "id": "2449521",
+    "allTitle": "ConnectX-4 Lx ConnectX-4 Lx EN",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Mellanox",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2474851",
+    "id": "2474851",
+    "allTitle": "ConnectX-4 ConnectX-4 Single/Dual-Port Adapter supporting 100Gb/s with VPI",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Mellanox",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2504891",
+    "id": "2504891",
+    "allTitle": "Intel Solid-State Drive P3600",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Intel Corporation",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2649521",
+    "id": "2649521",
+    "allTitle": "Dual Port 40G Unified Wire Adapter T580-CR",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Chelsio Communications",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2654051",
+    "id": "2654051",
+    "allTitle": "Dual Port 10G Unified Wire Adapter T520-LL-CR",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Chelsio Communications",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2727881",
+    "id": "2727881",
+    "allTitle": "NetXtreme-E BCM57414 NetXtreme-E 10Gb/25Gb RDMA Ethernet Controller",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Broadcom",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2758241",
+    "id": "2758241",
+    "allTitle": "AOC AOC-STG-i4S",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2883781",
+    "id": "2883781",
+    "allTitle": "QuantaVault JB4602",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Quanta",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2883811",
+    "id": "2883811",
+    "allTitle": "QuantaVault JB4242",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Quanta",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2883831",
+    "id": "2883831",
+    "allTitle": "QuantaVault - JB2720",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Quanta",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/2990921",
+    "id": "2990921",
+    "allTitle": "Flareon Server Adapter SFN8522",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Solarflare Communications Inc",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3032771",
+    "id": "3032771",
+    "allTitle": "UCS C220 M5",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3071981",
+    "id": "3071981",
+    "allTitle": "Ultrastar SS200 SDLL1HLR-076T-CCA1   Firmware : L006",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3089341",
+    "id": "3089341",
+    "allTitle": "Flareon Server Adapter SFN8542",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Solarflare Communications Inc",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3089481",
+    "id": "3089481",
+    "allTitle": "AOC AOC-MGP-i4",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3089561",
+    "id": "3089561",
+    "allTitle": "AOC AOC-MGP-i2M",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3090351",
+    "id": "3090351",
+    "allTitle": "AOC AOC-MTG-i2T",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3090371",
+    "id": "3090371",
+    "allTitle": "AOC AOC-MTG-i4T",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3090421",
+    "id": "3090421",
+    "allTitle": "AOC AOC-MTGN-i2S",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3090751",
+    "id": "3090751",
+    "allTitle": "AOC AOC-MGP-i4M",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3091661",
+    "id": "3091661",
+    "allTitle": "AOC AOC-MTGN-i2SM",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3091671",
+    "id": "3091671",
+    "allTitle": "AOC AOC-MTG-i4S",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3092951",
+    "id": "3092951",
+    "allTitle": "AOC AOC-MHIBF-m1Q2G",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3092991",
+    "id": "3092991",
+    "allTitle": "AOC AOC-MTG-i2TM",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3093011",
+    "id": "3093011",
+    "allTitle": "AOC AOC-MHIBF-m2Q2G",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3093031",
+    "id": "3093031",
+    "allTitle": "AOC AOC-MH25G-m2S2T",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3093901",
+    "id": "3093901",
+    "allTitle": "AOC AOC-MTG-i4TM",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3093921",
+    "id": "3093921",
+    "allTitle": "AOC AOC-MTG-i4SM",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3093941",
+    "id": "3093941",
+    "allTitle": "AOC AOC-MHIBF-m1Q2GM",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3093961",
+    "id": "3093961",
+    "allTitle": "AOC AOC-MHIBF-m2Q2GM",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3098391",
+    "id": "3098391",
+    "allTitle": "AOC AOC-STG-i4T",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3098421",
+    "id": "3098421",
+    "allTitle": "AOC AOC-STGS-i2T",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3099401",
+    "id": "3099401",
+    "allTitle": "AOC AOC-S25G-m2S",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3099491",
+    "id": "3099491",
+    "allTitle": "AOC AOC-S40G-i1Q",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3101691",
+    "id": "3101691",
+    "allTitle": "AOC AOC-STGS-i1T",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3104601",
+    "id": "3104601",
+    "allTitle": "AOC AOC-STGF-i2S",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3109831",
+    "id": "3109831",
+    "allTitle": "Intel Solid-State Drive P4500",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Intel Corporation",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3122221",
+    "id": "3122221",
+    "allTitle": "Skyhawk SDLC2CLR-019T-3NA1",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3130831",
+    "id": "3130831",
+    "allTitle": "Flareon Server Adapter SFN7122F",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Solarflare Communications Inc",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3139801",
+    "id": "3139801",
+    "allTitle": "Flareon Server Adapter SFN7142Q",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Solarflare Communications Inc",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3142821",
+    "id": "3142821",
+    "allTitle": "AOC AOC-MH25G-m2S2TM",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Super Micro Computer, Inc.",
+    "portal_thumbnail": "<img alt=\"Super Micro Computer, Inc.\" src=\"https://access.redhat.com/sites/default/files/super_micro_vendor_logo.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3155311",
+    "id": "3155311",
+    "allTitle": "UCS VIC 1380",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3156981",
+    "id": "3156981",
+    "allTitle": "UCS VIC 1340",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3157011",
+    "id": "3157011",
+    "allTitle": "UCS VIC 1280",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3157041",
+    "id": "3157041",
+    "allTitle": "UCS VIC 1240",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3157801",
+    "id": "3157801",
+    "allTitle": "UCS VIC 1225T",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3160511",
+    "id": "3160511",
+    "allTitle": "UCS VIC 1225",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3160631",
+    "id": "3160631",
+    "allTitle": "UCS VIC 1227",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3160691",
+    "id": "3160691",
+    "allTitle": "UCS VIC 1227T",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3172241",
+    "id": "3172241",
+    "allTitle": "ConnectX-5 ConnectX-5 Single/Dual-Port Adapter supporting 100Gb/s with VPI",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Mellanox",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3189092",
+    "id": "3189092",
+    "allTitle": "Ultrastar SN260 HUSMR7664BHP301",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3203301",
+    "id": "3203301",
+    "allTitle": "Cisco VIC 1385",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3230311",
+    "id": "3230311",
+    "allTitle": "Ultrastar He12 HUH721212ALE600 FW : LEGNT3D0",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3242591",
+    "id": "3242591",
+    "allTitle": "INTEL CORPORATION P4600 Series NVMe",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Intel Corporation",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3244041",
+    "id": "3244041",
+    "allTitle": "Ultrastar SS300 HUSMM3232ASS200  FW : R120",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3256721",
+    "id": "3256721",
+    "allTitle": "NVMe SSD D5450",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Dera",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3300441",
+    "id": "3300441",
+    "allTitle": "NVMe SSD D5430",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Dera",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3300461",
+    "id": "3300461",
+    "allTitle": "NVMe SSD D5850",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Dera",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3356931",
+    "id": "3356931",
+    "allTitle": "Fujitsu Server PLAN EP MCX4-LX 25GbE SFP28",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Fujitsu",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3356951",
+    "id": "3356951",
+    "allTitle": "Fujitsu Server PLAN EP MCX4-EN 100GbE QSFP28",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Fujitsu",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3389151",
+    "id": "3389151",
+    "allTitle": "INTEL CORPORATION INTEL  SSD DC P4510",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Intel Corporation",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3389321",
+    "id": "3389321",
+    "allTitle": "CARRIER GRADE SERVER INTEL OPTANE SSD P4800X",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Intel Corporation",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3433591",
+    "id": "3433591",
+    "allTitle": "sandisk X600 SD9SB8W-2T00",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3467571",
+    "id": "3467571",
+    "allTitle": "NetXtreme-E BCM57454 10Gb/25Gb/40Gb/50Gb/100Gb RDMA Ethernet Controller",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Broadcom",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3468271",
+    "id": "3468271",
+    "allTitle": "Agilio CX 2x40Gbe SmartNIC",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Netronome",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3470221",
+    "id": "3470221",
+    "allTitle": "Agilio CX 2x25Gbe SmartNIC",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Netronome",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3470301",
+    "id": "3470301",
+    "allTitle": "Agilio CX 2x10Gbe SmartNIC",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Netronome",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3471131",
+    "id": "3471131",
+    "allTitle": "Agilio CX 1x40Gbe SmartNIC",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Netronome",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3537061",
+    "id": "3537061",
+    "allTitle": "UCS VIC 1480",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3569801",
+    "id": "3569801",
+    "allTitle": "UCS VIC 1455",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3569821",
+    "id": "3569821",
+    "allTitle": "UCS VIC 1457",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3626331",
+    "id": "3626331",
+    "allTitle": "UCS VIC 1440",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3631201",
+    "id": "3631201",
+    "allTitle": "HPE Synergy 4820c 10/20/25Gb Converged Network Adapter",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Hewlett Packard Enterprise",
+    "portal_thumbnail": "<img alt=\"Hewlett Packard Enterprise\" src=\"https://access.redhat.com/sites/default/files/20160525-hewlett-packard-enterprise.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3664541",
+    "id": "3664541",
+    "allTitle": "Ultrastar SS530 WUSTM3232ASS200",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3725591",
+    "id": "3725591",
+    "allTitle": "Solid-State Drive P3-VA960",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lite-On Technology Corporation ",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3766831",
+    "id": "3766831",
+    "allTitle": "Solid-State Drive UNIC2 S6110-960",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lite-On Technology Corporation ",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3810561",
+    "id": "3810561",
+    "allTitle": "UCS VIC 1495",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3822562",
+    "id": "3822562",
+    "allTitle": "HPE Edgeline Wi - Fi/Bluetooth Intel AC9260",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Hewlett Packard Enterprise",
+    "portal_thumbnail": "<img alt=\"Hewlett Packard Enterprise\" src=\"https://access.redhat.com/sites/default/files/20160525-hewlett-packard-enterprise.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3831781",
+    "id": "3831781",
+    "allTitle": "UCS VIC 1497",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Cisco",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3868041",
+    "id": "3868041",
+    "allTitle": "LightPulse LPe35002-M2",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Broadcom",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3921541",
+    "id": "3921541",
+    "allTitle": "Ultrastar DC HC530 WUH721414ALE6L4",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3936781",
+    "id": "3936781",
+    "allTitle": "Solid-State Drive UNIC2 S6110-240",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lite-On Technology Corporation ",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3939591",
+    "id": "3939591",
+    "allTitle": "ThinkStation NVIDIA Quadro RTX4000",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3939631",
+    "id": "3939631",
+    "allTitle": "ThinkStation NVIDIA Quadro RTX5000",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3939671",
+    "id": "3939671",
+    "allTitle": "ThinkStation NVIDIA Quadro RTX6000",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3944791",
+    "id": "3944791",
+    "allTitle": "Ultrastar DC SN630 WUS3BA176C7P3E3",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3983161",
+    "id": "3983161",
+    "allTitle": "LightPulse LPe32002-m2",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Broadcom",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3985081",
+    "id": "3985081",
+    "allTitle": "ConnectX-5 Socket Direct ConnectX-5 VPI Socket Direct 100Gb/s InfiniBand & Ethernet Adapter Card",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Mellanox",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3992581",
+    "id": "3992581",
+    "allTitle": "PLAN EP QL41212 25/10GbE SFP28",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Fujitsu",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3992941",
+    "id": "3992941",
+    "allTitle": "LightPulse LPe12002",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Broadcom",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/3992981",
+    "id": "3992981",
+    "allTitle": "LightPulse LPe16002B",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Broadcom",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4036141",
+    "id": "4036141",
+    "allTitle": "ThinkStation NVIDIA Quadro RTX8000",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4140991",
+    "id": "4140991",
+    "allTitle": "Micron-9300 MTFDHAL15T3TDP-1AT1ZAB",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4150161",
+    "id": "4150161",
+    "allTitle": "LENOVO THINKSERVER 7ZT7A00519/LPe32002-M2-L",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4156561",
+    "id": "4156561",
+    "allTitle": "LENOVO THINKSERVER 7ZT7A00517/LPe32000-M2-L",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4156601",
+    "id": "4156601",
+    "allTitle": "ThinkServer 01CV830/LPe31000-M6-L",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4156891",
+    "id": "4156891",
+    "allTitle": "Micron-9300 MTFDHAL12T8TDR-1AT1ZAB",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4157571",
+    "id": "4157571",
+    "allTitle": "Micron-9300 MTFDHAL7T6TDP-1AT1ZAB",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4159911",
+    "id": "4159911",
+    "allTitle": "ThinkServer 01CV840/LPe31002-M6-L",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4166811",
+    "id": "4166811",
+    "allTitle": "Micron-9300 MTFDHAL6T4TDR-1AT1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4166851",
+    "id": "4166851",
+    "allTitle": "Micron-9300 MTFDHAL3T8TDP-1AT1ZAB",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4166891",
+    "id": "4166891",
+    "allTitle": "Micron-9300 MTFDHAL3T2TDR-1AT1ZAB",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4218671",
+    "id": "4218671",
+    "allTitle": "System Broadcom NetXtreme 2x10GbE BaseT Adapter",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4257031",
+    "id": "4257031",
+    "allTitle": "Intel Apache Pass AEP DIMM",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Dell EMC",
+    "portal_thumbnail": "<img alt=\"Dell EMC\" src=\"https://access.redhat.com/sites/default/files/dellemc_logo_hz_blue_gry_rgb.png\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4295481",
+    "id": "4295481",
+    "allTitle": "Lenovo Mellanox ConnectX-4 Lx 10/25GbE SFP28 2-port PCIe Ethernet Adapter",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4295521",
+    "id": "4295521",
+    "allTitle": "Lenovo Mellanox ConnectX-4 2x100GbE/EDR IB QSFP28 VPI Adapter",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4295561",
+    "id": "4295561",
+    "allTitle": "Lenovo ThinkSystem Mellanox ConnectX-3 Pro ML2 FDR 2-Port QSFP VPI Adapter",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4324511",
+    "id": "4324511",
+    "allTitle": "BlueField Mellanox BlueField SmartNIC Adapter",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Mellanox",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4489891",
+    "id": "4489891",
+    "allTitle": "ThinkStation NVIDIA Quadro P2200",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4501611",
+    "id": "4501611",
+    "allTitle": "Omni-Path Host Fabric Interface adapter 100 Series",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Intel Corporation",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4606931",
+    "id": "4606931",
+    "allTitle": "ConnectX-6 ConnectX-6 VPI Card 200Gb/s InfiniBand & Ethernet Adapter Card",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Mellanox",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4628371",
+    "id": "4628371",
+    "allTitle": "SN640 WUS4BB096D7P3E3",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Western Digital",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4654591",
+    "id": "4654591",
+    "allTitle": "Micron-5300 MTFDDAK7T6TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667281",
+    "id": "4667281",
+    "allTitle": "Micron-7300 MTFDHBE7T6TDF-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667341",
+    "id": "4667341",
+    "allTitle": "Micron-7300 MTFDHBE6T4TDG-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667541",
+    "id": "4667541",
+    "allTitle": "Micron-7300 MTFDHBA400TDG-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667581",
+    "id": "4667581",
+    "allTitle": "Micron-7300 MTFDHBA400TDG-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667621",
+    "id": "4667621",
+    "allTitle": "Micron-7300 MTFDHBE800TDG-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667661",
+    "id": "4667661",
+    "allTitle": "Micron-7300 MTFDHBA480TDF-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667701",
+    "id": "4667701",
+    "allTitle": "Micron-7300 MTFDHBE800TDG-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667741",
+    "id": "4667741",
+    "allTitle": "Micron-7300 MTFDHBA480TDF-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667781",
+    "id": "4667781",
+    "allTitle": "Micron-7300 MTFDHBE960TDF-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667821",
+    "id": "4667821",
+    "allTitle": "Micron-7300 MTFDHBA800TDG-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667861",
+    "id": "4667861",
+    "allTitle": "Micron-7300 MTFDHBE960TDF-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667931",
+    "id": "4667931",
+    "allTitle": "Micron-7300 MTFDHBG1T9TDF-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4667971",
+    "id": "4667971",
+    "allTitle": "Micron-7300 MTFDHBA960TDF-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668011",
+    "id": "4668011",
+    "allTitle": "Micron-7300 MTFDHBG1T9TDF-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668051",
+    "id": "4668051",
+    "allTitle": "Micron-7300 MTFDHBA960TDF-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668091",
+    "id": "4668091",
+    "allTitle": "Micron-7300 MTFDHBG3T8TDF-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668171",
+    "id": "4668171",
+    "allTitle": "Micron-7300 MTFDHBG3T8TDF-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668211",
+    "id": "4668211",
+    "allTitle": "Micron-7300 MTFDHBE1T6TDG-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668251",
+    "id": "4668251",
+    "allTitle": "Micron-7300 MTFDHBE1T6TDG-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668331",
+    "id": "4668331",
+    "allTitle": "Micron-7300 MTFDHBE1T9TDF-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668411",
+    "id": "4668411",
+    "allTitle": "Micron-7300 MTFDHBE1T9TDF-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668451",
+    "id": "4668451",
+    "allTitle": "Micron-7300 MTFDHBE3T2TDG-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668571",
+    "id": "4668571",
+    "allTitle": "Micron-7300 MTFDHBE3T8TDF-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668671",
+    "id": "4668671",
+    "allTitle": "Micron-7300 MTFDHBE3T8TDF-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668711",
+    "id": "4668711",
+    "allTitle": "Micron-7300 MTFDHBE6T4TDG-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4668971",
+    "id": "4668971",
+    "allTitle": "Micron-7300 MTFDHBE3T2TDG-1AW4ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4672421",
+    "id": "4672421",
+    "allTitle": "Micron-5300 MTFDDAK1T9TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4672461",
+    "id": "4672461",
+    "allTitle": "Micron-5300 MTFDDAK1T9TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4672601",
+    "id": "4672601",
+    "allTitle": "Micron-5300 MTFDDAK1T9TDT-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4672681",
+    "id": "4672681",
+    "allTitle": "Micron-5300 MTFDDAK1T9TDT-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4672721",
+    "id": "4672721",
+    "allTitle": "Micron-5300 MTFDDAV240TDU-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4672781",
+    "id": "4672781",
+    "allTitle": "Micron-5300 MTFDDAV240TDU-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4672881",
+    "id": "4672881",
+    "allTitle": "Micron-5300 MTFDDAK240TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4672921",
+    "id": "4672921",
+    "allTitle": "Micron-5300 MTFDDAV480TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4672961",
+    "id": "4672961",
+    "allTitle": "Micron-5300 MTFDDAK3T8TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673001",
+    "id": "4673001",
+    "allTitle": "Micron-5300 MTFDDAV480TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673041",
+    "id": "4673041",
+    "allTitle": "Micron-5300 MTFDDAK240TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673121",
+    "id": "4673121",
+    "allTitle": "Micron-5300 MTFDDAK960TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673281",
+    "id": "4673281",
+    "allTitle": "Micron-5300 MTFDDAK3T8TDT-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673321",
+    "id": "4673321",
+    "allTitle": "Micron-5300 MTFDDAK240TDT-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673361",
+    "id": "4673361",
+    "allTitle": "Micron-5300 MTFDDAV960TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673401",
+    "id": "4673401",
+    "allTitle": "Micron-5300 MTFDDAK960TDT-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673441",
+    "id": "4673441",
+    "allTitle": "Micron-5300 MTFDDAK3T8TDT-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673481",
+    "id": "4673481",
+    "allTitle": "Micron-5300 MTFDDAK960TDT-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673511",
+    "id": "4673511",
+    "allTitle": "Micron-5300 MTFDDAV960TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673551",
+    "id": "4673551",
+    "allTitle": "Micron-5300 MTFDDAK240TDT-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673661",
+    "id": "4673661",
+    "allTitle": "Micron-5300 MTFDDAV1T9TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673701",
+    "id": "4673701",
+    "allTitle": "Micron-5300 MTFDDAK480TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673741",
+    "id": "4673741",
+    "allTitle": "Micron-5300 MTFDDAV1T9TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673861",
+    "id": "4673861",
+    "allTitle": "Micron-5300 MTFDDAK3T8TDS-1AW16ABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/4673931",
+    "id": "4673931",
+    "allTitle": "Micron-5300 MTFDDAK480TDS-1AW1ZABYY",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Component",
+    "c_catalog_vendor": "Micron Technologies, Inc.",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  }
+
+]

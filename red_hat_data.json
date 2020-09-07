@@ -1,0 +1,461 @@
+[
+  {
+    "domain": ".access.redhat.com",
+    "expiry": 1595989933,
+    "httpOnly": false,
+    "name": "aam_did",
+    "path": "/",
+    "secure': false,
+    "value": "79614540180313406490603841981429918052"
+  },
+  {
+    "domain": ".redhat.com",
+    "httpOnly": false,
+    "name": "AMCVS_945D02BE532957400A490D4C%40AdobeOrg",
+    "path": "/",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'dtm_prevURL',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": 'https%3A%2F%2Faccess.redhat.com%2F'
+  },
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": false,
+    "name": 'dtm_cpReg',
+    "path": '/',
+    "secure": false,
+    "value": 'yes'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593448326.995315,
+    "httpOnly": false,
+    "name": 'rh_sso_session',
+    "path": '/',
+    "secure": false,
+    "value": '1'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593399732,
+    "httpOnly": false,
+    "name": 'sat_prevUrl',
+    "path": '/',
+    "secure": false,
+    "value": 'https%3A%2F%2Faccess.redhat.com%2F'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593399732,
+    "httpOnly": false,
+    "name": 'sat_prevPage',
+    "path": '/',
+    "secure": false,
+    "value": 'cp%7Chome%20page'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1656642701,
+    "httpOnly": false,
+    "name": 'mbox',
+    "path": '/',
+    "secure": false,
+    "value": 'session#e21d0ed63b5d4e7eb9e401058026c698#1593399792|PC#e21d0ed63b5d4e7eb9e401058026c698.38_0#1656642701'
+  },
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": true,
+    "name": '5de2ca7b93a8fe2d480b8245a8f255a2',
+    "path": '/',
+    "secure": true,
+    "value": 'f7c6b9c2b1ea6d075676d41c745c00a8'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1601173900,
+    "httpOnly": false,
+    "name": 'sat_prevInternalCampaign',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": ''
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593448326.995272,
+    "httpOnly": false,
+    "name": 'rh_user_id',
+    "path": '/',
+    "secure": false,
+    "value": '51768269'
+  },
+  {
+    "domain": '.access.redhat.com',
+    "expiry": 1593398914.21507,
+    "httpOnly": false,
+    "name": 'rh_jwt',
+    "path": '/',
+    "sameSite": 'None',
+    "secure": true,
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICItNGVsY19WZE5fV3NPVVlmMkc0UXhyOEdjd0l4X0t0WFVDaXRhdExLbEx3In0.eyJqdGkiOiIzMzdmYmZhZC04NzZhLTQ5NTUtYjcyYS1hYWFmYjM2MjI0YjIiLCJleHAiOjE1OTMzOTg5MTUsIm5iZiI6MCwiaWF0IjoxNTkzMzk4MDE1LCJpc3MiOiJodHRwczovL3Nzby5yZWRoYXQuY29tL2F1dGgvcmVhbG1zL3JlZGhhdC1leHRlcm5hbCIsImF1ZCI6ImN1c3RvbWVyLXBvcnRhbCIsInN1YiI6ImY6NTI4ZDc2ZmYtZjcwOC00M2VkLThjZDUtZmUxNmY0ZmUwY2U2OnJkLnNhbmdmb3IiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJjdXN0b21lci1wb3J0YWwiLCJub25jZSI6ImFlZDA5NmUyLTVmYTItNDVkZS04YWQ2LTdkZDAxZWFkOWQ5NiIsImF1dGhfdGltZSI6MTU5MzM5ODAxMiwic2Vzc2lvbl9zdGF0ZSI6IjA4ZTJkNzk5LWFhNjItNDBmMC1iYTgyLWNmZDk0YzhjYmE2ZSIsImFjciI6IjAiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cHM6Ly9wcm9kLmZvby5yZWRoYXQuY29tOjEzMzciLCJodHRwczovL3d3dy5yZWRoYXQuY29tIiwiaHR0cHM6Ly9hY2Nlc3MucmVkaGF0LmNvbSJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsiYXV0aGVudGljYXRlZCIsImNhbmRsZXBpbl9zeXN0ZW1fYWNjZXNzX3ZpZXdfZWRpdF9wZXJzb25hbCIsImlkcF9hdXRoZW50aWNhdGVkIiwicG9ydGFsX21hbmFnZV9zdWJzY3JpcHRpb25zIiwiZXJyYXRhOm5vdGlmaWNhdGlvbl9zdGF0dXNfZW5hYmxlZCIsImVycmF0YTpub3RpZmljYXRpb25fZGVsaXZlcnlfd2Vla2x5IiwicG9ydGFsX21hbmFnZV9jYXNlcyIsImVycmF0YTpub3RpZmljYXRpb246c2VjdXJpdHkiLCJlcnJhdGE6bm90aWZpY2F0aW9uX2xldmVsX3N5c3RlbS12aXNpYmxlIiwiZXJyYXRhOm5vdGlmaWNhdGlvbjpidWdmaXgiLCJhZG1pbjpvcmc6YWxsIiwidW1hX2F1dGhvcml6YXRpb24iLCJwb3J0YWxfc3lzdGVtX21hbmFnZW1lbnQiLCJyaGRfYWNjZXNzX21pZGRsZXdhcmUiLCJwb3J0YWxfZG93bmxvYWQiXX0sInJlc291cmNlX2FjY2VzcyI6eyJyaGQtZG0iOnsicm9sZXMiOlsicmh1c2VyIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJSRURIQVRfTE9HSU4iOiJyZC5zYW5nZm9yIiwibGFzdE5hbWUiOiJzYW5nZm9yIiwiY291bnRyeSI6IkNOIiwiYWNjb3VudF9udW1iZXIiOiI2MDgwMjc3IiwicHJlZmVycmVkX3VzZXJuYW1lIjoicmQuc2FuZ2ZvciIsImZpcnN0TmFtZSI6InJkIiwiYWNjb3VudF9pZCI6IjExNzI4MTc4IiwidXNlcl9pZCI6IjUxNzY4MjY5Iiwib3JnYW5pemF0aW9uX2lkIjoiMDBEbTAwMDAwMDAxMTZDIiwic2l0ZUlkIjoicmVkaGF0Iiwic2l0ZUlEIjoicmVkaGF0IiwicG9ydGFsX2lkIjoiMDYwNjAwMDAwMDBEMGFmIiwibGFuZyI6InpoX0NOIiwicmVnaW9uIjoiQ04iLCJlbWFpbCI6InJkLnNhbmdmb3JAZ21haWwuY29tIiwiUkhBVF9MT0dJTiI6InJkLnNhbmdmb3IiLCJ1c2VybmFtZSI6InJkLnNhbmdmb3IifQ.k-xmn6IzXVVHzazD4l9HLdBLf9Ej_Oa98sDwYHXSldF1hjLuNaaUdrJ0cYCP87lbq58DwQz2U22dMitpRrXBRMff9RxqH3mSJtvEghfZiQaPMmfZUyr0V2b3kDflw-0eMoUDMynuj8IZQCUKrnaET5eAJcZ1GPqQDUXMCnOVsWcSBWvX0I1nH5y1BIr7etoKvRn3gsfJgtkAsf5vFfk2Te4zf5eNSUAKx7X_tRhdxtkdXQVUCNkw1W7TpQdtz3G5Jb5nimR-VYd3ZDmd5OUEBNRgLN6qP19e-hcMQV9_pUjnf3yV10anXjO57D6AKM3deiAXd4WZZHePTnO4940COqyb14Gn4tJzdhNCfmDTQVXDjEE1GnZR3odXZV6wn6IZCI5CDS-6uWwjzIjHBYXRzJ8E_s1AhSWitfWK65x_vn91ZkSysy7ASdSlljPRx1tF7WhlyCAGh-rYPwzS3ipVBOmQ9p27qnhayBYfDF7V7SsLdYqamNYu9xqe-tfjZ98QjsYH2nLEJ8IO76FUjWvKd6EZnCWcSDNltjEWMPLYQDk7PAuVag4JTfeIL57f4HJQtMhaH8d8sklF4MlytFDqz_u98rwRulSKiuHdukwWhRP0WDiGVqUm8ef0XUTUyxGLKbRqy5R8P3PrlNO0rLspkRTnxe2CotpMRBuUJMVZHZ0"
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1595989899,
+    "httpOnly": false,
+    "name": 'rh_omni_tc',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": '701f2000001Css0AAC'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'rh_elqCustomerGUID',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": 'c05b5c11-5060-4297-9a77-03b37ea77236'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1624933900,
+    "httpOnly": false,
+    "name": 'scCidHist',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": '701f2000001Css0AAC'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 's_cc',
+    "path": '/',
+    "secure": false,
+    "value": 'true'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 's_sq',
+    "path": '/',
+    "secure": false,
+    "value": '%5B%5BB%5D%5D'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593448326.995239,
+    "httpOnly": false,
+    "name": 'rh_locale',
+    "path": '/',
+    "secure": false,
+    "value": 'zh_CN'
+  },
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": false,
+    "name": 'chrome_session_id',
+    "path": '/',
+    "secure": false,
+    "value": '559163|1593397929126'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'sat_prevExtCmp',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": 'no%20value'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'sat_ppv',
+    "path": '/',
+    "secure": false,
+    "value": '26'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1656469933.130756,
+    "httpOnly": false,
+    "name": 'AMCV_945D02BE532957400A490D4C%40AdobeOrg',
+    "path": '/',
+    "secure": false,
+    "value": "1075005958%7CMCIDTS%7C18443%7CMCMID%7C69513460945548089410460958547089909600%7CMCAAMLH-1594002699%7C11%7CMCAAMB-1594002699%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1593405100s%7CNONE%7CMCSYNCSOP%7C411-18450%7CMCAID%7CNONE%7CvVersion%7C4.4.1"
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593448326.995191,
+    "httpOnly": false,
+    "name": 'rh_user',
+    "path": '/',
+    "secure": false,
+    "value": 'rd.sangfor|rd|P|'
+  },
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": false,
+    "name": 'sat_prevExtCmp',
+    "path": '/',
+    "secure": false,
+    "value": '701f2000001Css0AAC'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'check',
+    "path": '/',
+    "secure": false,
+    "value": 'true'
+  }
+]
+
+[
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": true,
+    "name": '_redhat_downloads_session',
+    "path": '/',
+    "secure": false,
+    "value": "tXXxXGb6rJsp12sP4fq2KgXsUnOIo7mudYX50YxW3yAflWu2qrXfd1A2tiR7HrR%2BEi8b3qrW2EVGQFNxPoZAc%2BQQAb8Jk9RCybJD48y5H9o4J7rKLpItgEDOslflS524pFwLsFdtsLViIbcBQxQMWBqP6Y4MFei1mWvvfcGDwA3YhfnlO5A4WudWzvMmO4mlswvCv4XbhlUJxgscADU%3D--iQWX70toi73vChA4--Cea5%2BF5Ba1ru9bL8s3940g%3D%3D"
+  },
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": true,
+    "name": '687975abb031448267d67b8718cb78ea',
+    "path": '/',
+    "secure": true,
+    "value": '1e9f5b8a421149f4d95732f4c0eb4317'
+  },
+  {
+    "domain": '.access.redhat.com',
+    "expiry": 1595989933,
+    "httpOnly": false,
+    "name": 'aam_did',
+    "path": '/',
+    "secure": false,
+    "value": '79614540180313406490603841981429918052'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'AMCVS_945D02BE532957400A490D4C%40AdobeOrg',
+    "path": '/',
+    "secure": false,
+    "value": '1'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'dtm_prevURL',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": 'https%3A%2F%2Faccess.redhat.com%2F'
+  },
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": false,
+    "name": 'dtm_cpReg',
+    "path": '/',
+    "secure": false,
+    "value": 'yes'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593448347.074146,
+    "httpOnly": false,
+    "name": 'rh_sso_session',
+    "path": '/',
+    "secure": false,
+    "value": '1'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593399732,
+    "httpOnly": false,
+    "name": 'sat_prevUrl',
+    "path": '/',
+    "secure": false,
+    "value": 'https%3A%2F%2Faccess.redhat.com%2F'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593399732,
+    "httpOnly": false,
+    "name": 'sat_prevPage',
+    "path": '/',
+    "secure": false,
+    "value": 'cp%7Chome%20page'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1656642701,
+    "httpOnly": false,
+    "name": 'mbox',
+    "path": '/',
+    "secure": false,
+    "value": 'session#e21d0ed63b5d4e7eb9e401058026c698#1593399792|PC#e21d0ed63b5d4e7eb9e401058026c698.38_0#1656642701'
+  },
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": true,
+    "name": '5de2ca7b93a8fe2d480b8245a8f255a2',
+    "path": '/',
+    "secure": true,
+    "value": 'f7c6b9c2b1ea6d075676d41c745c00a8'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1601173900,
+    "httpOnly": false,
+    "name": 'sat_prevInternalCampaign',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": ''
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593448347.074121,
+    "httpOnly": false,
+    "name": 'rh_user_id',
+    "path": '/',
+    "secure": false,
+    "value": '51768269'
+  },
+  {
+    "domain": '.access.redhat.com',
+    "expiry": 1593398914.21507,
+    "httpOnly": false,
+    "name": 'rh_jwt',
+    "path": '/',
+    "sameSite": 'None',
+    "secure": true,
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICItNGVsY19WZE5fV3NPVVlmMkc0UXhyOEdjd0l4X0t0WFVDaXRhdExLbEx3In0.eyJqdGkiOiIzMzdmYmZhZC04NzZhLTQ5NTUtYjcyYS1hYWFmYjM2MjI0YjIiLCJleHAiOjE1OTMzOTg5MTUsIm5iZiI6MCwiaWF0IjoxNTkzMzk4MDE1LCJpc3MiOiJodHRwczovL3Nzby5yZWRoYXQuY29tL2F1dGgvcmVhbG1zL3JlZGhhdC1leHRlcm5hbCIsImF1ZCI6ImN1c3RvbWVyLXBvcnRhbCIsInN1YiI6ImY6NTI4ZDc2ZmYtZjcwOC00M2VkLThjZDUtZmUxNmY0ZmUwY2U2OnJkLnNhbmdmb3IiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJjdXN0b21lci1wb3J0YWwiLCJub25jZSI6ImFlZDA5NmUyLTVmYTItNDVkZS04YWQ2LTdkZDAxZWFkOWQ5NiIsImF1dGhfdGltZSI6MTU5MzM5ODAxMiwic2Vzc2lvbl9zdGF0ZSI6IjA4ZTJkNzk5LWFhNjItNDBmMC1iYTgyLWNmZDk0YzhjYmE2ZSIsImFjciI6IjAiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cHM6Ly9wcm9kLmZvby5yZWRoYXQuY29tOjEzMzciLCJodHRwczovL3d3dy5yZWRoYXQuY29tIiwiaHR0cHM6Ly9hY2Nlc3MucmVkaGF0LmNvbSJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsiYXV0aGVudGljYXRlZCIsImNhbmRsZXBpbl9zeXN0ZW1fYWNjZXNzX3ZpZXdfZWRpdF9wZXJzb25hbCIsImlkcF9hdXRoZW50aWNhdGVkIiwicG9ydGFsX21hbmFnZV9zdWJzY3JpcHRpb25zIiwiZXJyYXRhOm5vdGlmaWNhdGlvbl9zdGF0dXNfZW5hYmxlZCIsImVycmF0YTpub3RpZmljYXRpb25fZGVsaXZlcnlfd2Vla2x5IiwicG9ydGFsX21hbmFnZV9jYXNlcyIsImVycmF0YTpub3RpZmljYXRpb246c2VjdXJpdHkiLCJlcnJhdGE6bm90aWZpY2F0aW9uX2xldmVsX3N5c3RlbS12aXNpYmxlIiwiZXJyYXRhOm5vdGlmaWNhdGlvbjpidWdmaXgiLCJhZG1pbjpvcmc6YWxsIiwidW1hX2F1dGhvcml6YXRpb24iLCJwb3J0YWxfc3lzdGVtX21hbmFnZW1lbnQiLCJyaGRfYWNjZXNzX21pZGRsZXdhcmUiLCJwb3J0YWxfZG93bmxvYWQiXX0sInJlc291cmNlX2FjY2VzcyI6eyJyaGQtZG0iOnsicm9sZXMiOlsicmh1c2VyIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJSRURIQVRfTE9HSU4iOiJyZC5zYW5nZm9yIiwibGFzdE5hbWUiOiJzYW5nZm9yIiwiY291bnRyeSI6IkNOIiwiYWNjb3VudF9udW1iZXIiOiI2MDgwMjc3IiwicHJlZmVycmVkX3VzZXJuYW1lIjoicmQuc2FuZ2ZvciIsImZpcnN0TmFtZSI6InJkIiwiYWNjb3VudF9pZCI6IjExNzI4MTc4IiwidXNlcl9pZCI6IjUxNzY4MjY5Iiwib3JnYW5pemF0aW9uX2lkIjoiMDBEbTAwMDAwMDAxMTZDIiwic2l0ZUlkIjoicmVkaGF0Iiwic2l0ZUlEIjoicmVkaGF0IiwicG9ydGFsX2lkIjoiMDYwNjAwMDAwMDBEMGFmIiwibGFuZyI6InpoX0NOIiwicmVnaW9uIjoiQ04iLCJlbWFpbCI6InJkLnNhbmdmb3JAZ21haWwuY29tIiwiUkhBVF9MT0dJTiI6InJkLnNhbmdmb3IiLCJ1c2VybmFtZSI6InJkLnNhbmdmb3IifQ.k-xmn6IzXVVHzazD4l9HLdBLf9Ej_Oa98sDwYHXSldF1hjLuNaaUdrJ0cYCP87lbq58DwQz2U22dMitpRrXBRMff9RxqH3mSJtvEghfZiQaPMmfZUyr0V2b3kDflw-0eMoUDMynuj8IZQCUKrnaET5eAJcZ1GPqQDUXMCnOVsWcSBWvX0I1nH5y1BIr7etoKvRn3gsfJgtkAsf5vFfk2Te4zf5eNSUAKx7X_tRhdxtkdXQVUCNkw1W7TpQdtz3G5Jb5nimR-VYd3ZDmd5OUEBNRgLN6qP19e-hcMQV9_pUjnf3yV10anXjO57D6AKM3deiAXd4WZZHePTnO4940COqyb14Gn4tJzdhNCfmDTQVXDjEE1GnZR3odXZV6wn6IZCI5CDS-6uWwjzIjHBYXRzJ8E_s1AhSWitfWK65x_vn91ZkSysy7ASdSlljPRx1tF7WhlyCAGh-rYPwzS3ipVBOmQ9p27qnhayBYfDF7V7SsLdYqamNYu9xqe-tfjZ98QjsYH2nLEJ8IO76FUjWvKd6EZnCWcSDNltjEWMPLYQDk7PAuVag4JTfeIL57f4HJQtMhaH8d8sklF4MlytFDqz_u98rwRulSKiuHdukwWhRP0WDiGVqUm8ef0XUTUyxGLKbRqy5R8P3PrlNO0rLspkRTnxe2CotpMRBuUJMVZHZ0"
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1595989899,
+    "httpOnly": false,
+    "name": 'rh_omni_tc',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": '701f2000001Css0AAC'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'rh_elqCustomerGUID',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": 'c05b5c11-5060-4297-9a77-03b37ea77236'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1624933900,
+    "httpOnly": false,
+    "name": 'scCidHist',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": '701f2000001Css0AAC'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 's_cc',
+    "path": '/',
+    "secure": false,
+    "value": 'true'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 's_sq',
+    "path": '/',
+    "secure": false,
+    "value": '%5B%5BB%5D%5D'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593448347.074095,
+    "httpOnly": false,
+    "name": 'rh_locale',
+    "path": '/',
+    "secure": false,
+    "value": 'zh_CN'
+  },
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": false,
+    "name": 'chrome_session_id',
+    "path": '/',
+    "secure": false,
+    "value": '559163|1593397929126'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'sat_prevExtCmp',
+    "path": '/',
+    "sameSite": 'Lax',
+    "secure": true,
+    "value": 'no%20value'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'sat_ppv',
+    "path": '/',
+    "secure": false,
+    "value": '26'
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1656469945.916727,
+    "httpOnly": false,
+    "name": 'AMCV_945D02BE532957400A490D4C%40AdobeOrg',
+    "path": '/',
+    "secure": false,
+    "value": "1075005958%7CMCIDTS%7C18443%7CMCMID%7C69513460945548089410460958547089909600%7CMCAAMLH-1594002699%7C11%7CMCAAMB-1594002699%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1593405100s%7CNONE%7CMCSYNCSOP%7C411-18450%7CMCAID%7CNONE%7CvVersion%7C4.4.1"
+  },
+  {
+    "domain": '.redhat.com',
+    "expiry": 1593448347.07399,
+    "httpOnly": false,
+    "name": 'rh_user',
+    "path": '/',
+    "secure": false,
+    "value": 'rd.sangfor|rd|P|'
+  },
+  {
+    "domain": 'access.redhat.com',
+    "httpOnly": false,
+    "name": 'sat_prevExtCmp',
+    "path": '/',
+    "secure": false,
+    "value": '701f2000001Css0AAC'
+  },
+  {
+    "domain": '.redhat.com',
+    "httpOnly": false,
+    "name": 'check',
+    "path": '/',
+    "secure": false,
+    "value": 'true'
+  }
+]

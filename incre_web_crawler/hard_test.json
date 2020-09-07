@@ -1,0 +1,22 @@
+[
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1117423",
+    "id": "1117423",
+    "allTitle": "ThinkServer RS240",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Server",
+    "c_catalog_vendor": "Lenovo",
+    "portal_thumbnail": "<img alt=\"Lenovo\" src=\"https://access.redhat.com/sites/default/files/lenovologo-pos-red_2.jpg\">",
+    "ch_architecture": "x86_64"
+  },
+  {
+    "view_uri": "https://access.redhat.com/ecosystem/hardware/1117473",
+    "id": "1117473",
+    "allTitle": "PRIMERGY TX1310 M1",
+    "publishedAbstract": "",
+    "c_catalog_channel": "Server",
+    "c_catalog_vendor": "Fujitsu",
+    "portal_thumbnail": "",
+    "ch_architecture": "x86_64"
+  }
+]

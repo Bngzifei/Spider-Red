@@ -1,0 +1,137 @@
+LOGIN_URL = https://sso.redhat.com/auth/realms/redhat-external/rhdtools/loginExists
+
+请求载荷:
+{username: "rd.sangfor@gmail.com", token: "1593315507906.YbN+6ODXExI8UVTQjp1RTg=="}
+
+https://sso.redhat.com/auth/realms/redhat-external/protocol/openid-connect/token
+
+Form Data:
+grant_type: refresh_token
+refresh_token: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICItNGVsY19WZE5fV3NPVVlmMkc0UXhyOEdjd0l4X0t0WFVDaXRhdExLbEx3In0.eyJqdGkiOiJlYzVhMmFmOC04NzJhLTQzYjAtOWUyYy04YjZiMDYwNWZjYzQiLCJleHAiOjE1OTMzNTE2NjYsIm5iZiI6MCwiaWF0IjoxNTkzMzE1NjY2LCJpc3MiOiJodHRwczovL3Nzby5yZWRoYXQuY29tL2F1dGgvcmVhbG1zL3JlZGhhdC1leHRlcm5hbCIsImF1ZCI6ImN1c3RvbWVyLXBvcnRhbCIsInN1YiI6ImY6NTI4ZDc2ZmYtZjcwOC00M2VkLThjZDUtZmUxNmY0ZmUwY2U2OnJkLnNhbmdmb3IiLCJ0eXAiOiJSZWZyZXNoIiwiYXpwIjoiY3VzdG9tZXItcG9ydGFsIiwibm9uY2UiOiJmYWRhMTYxMi1mNmQzLTQ0OGMtYTU1Ni1kOTRkNTgwN2QxYTEiLCJhdXRoX3RpbWUiOjAsInNlc3Npb25fc3RhdGUiOiJlYWQ1ZTQzYi04YmFlLTQwNDgtYjQzYS1mMTRmNWI4M2ZlMGUiLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsiYXV0aGVudGljYXRlZCIsImNhbmRsZXBpbl9zeXN0ZW1fYWNjZXNzX3ZpZXdfZWRpdF9wZXJzb25hbCIsImlkcF9hdXRoZW50aWNhdGVkIiwicG9ydGFsX21hbmFnZV9zdWJzY3JpcHRpb25zIiwiZXJyYXRhOm5vdGlmaWNhdGlvbl9zdGF0dXNfZW5hYmxlZCIsImVycmF0YTpub3RpZmljYXRpb25fZGVsaXZlcnlfd2Vla2x5IiwicG9ydGFsX21hbmFnZV9jYXNlcyIsImVycmF0YTpub3RpZmljYXRpb246c2VjdXJpdHkiLCJlcnJhdGE6bm90aWZpY2F0aW9uX2xldmVsX3N5c3RlbS12aXNpYmxlIiwiZXJyYXRhOm5vdGlmaWNhdGlvbjpidWdmaXgiLCJhZG1pbjpvcmc6YWxsIiwidW1hX2F1dGhvcml6YXRpb24iLCJwb3J0YWxfc3lzdGVtX21hbmFnZW1lbnQiLCJyaGRfYWNjZXNzX21pZGRsZXdhcmUiLCJwb3J0YWxfZG93bmxvYWQiXX0sInJlc291cmNlX2FjY2VzcyI6eyJyaGQtZG0iOnsicm9sZXMiOlsicmh1c2VyIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19fQ.RTDkF0P5P9CIz822-nfWjK-PrJyfESPtWxVlixaN70eWAx059ijtsBRXwoz4xqJiz4u67jg_ltwiauSXwUgNrHC4DTmD2N4TTE1OPP5y5gQd_fEpJNyQXomwPNqwigx0F5LpKg-YptuzbJ6F_KceYejc6mB0wcPP6CaAYvS5vQ_Km9smOWcfUjRdV1oD38n296YlLJKJB92XUGVsbaKJ47b1OLAHC1JREcZA6W5FxrOBOxOg5LgKS5KZN9gZLToyJUExeS01wmBLp4dAS9efn7w7Vs8RHEVJMs2J9BE1CLr68DvcZXRCAUFEwQ2VBc7CiRZgyZDf6SH176R5Chei0hMl0lx6pi7KTwJ43BuC955WKikTb-DNZZg5TK1JP3SgsFsu2hL2D5vBCTVi6UV4bOWtkkp5UBxlYE_WMIzkWFBC41q1OVGxdw6BMo7q4jkoIAkKE1unUQRxJVO00dQbyKzSIcy8Uv3eaM60Z-Qdyt77TJw_a8Q_5-b0A4Ei7L1OGLIpzvbWONUAq6BBqlDAcEZtdm_hGt2Rihu-ctSpe0OMidoMDQKQ-iIHaUIKhUlA14DsQJv9H9n_JqgVHgZzSakPGmYMgtrt4dJNSrXlRlAVI4-72Qavg3SanmqqU4LPQv170DENAWqmuR-IpwHaoRS1BUBe8PVskTb5R1smVwU
+client_id: customer-portal
+
+POST https://sso.redhat.com/auth/realms/redhat-external/login-actions/authenticate?code=X0DzXNyqnXu-kL5ZluyrJF0v3zia8an9GJAdcss_JxQ&execution=42ab36f8-26fd-4425-9aba-7792a9f08f59&client_id=customer-portal&tab_id=7zcHPatNctI HTTP/1.1
+Host: sso.redhat.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 54
+Origin: https://sso.redhat.com
+Connection: keep-alive
+Referer: https://sso.redhat.com/auth/realms/redhat-external/protocol/openid-connect/auth?client_id=customer-portal&redirect_uri=https%3A%2F%2Faccess.redhat.com%2Fwebassets%2Favalon%2Fj%2Fincludes%2Fsession%2Fscribe%2F%3FredirectTo%3Dhttps%253A%252F%252Faccess.redhat.com&state=25e9a577-c6c6-4c58-87db-dd867ce16991&nonce=72e61da4-e8eb-4ce4-88d9-cd62913b93ad&response_mode=fragment&response_type=code&scope=openid
+Cookie: AUTH_SESSION_ID=c9a60bea-e2e8-40ef-b6c3-b8a1c943f479.kc03; KC_RESTART=eyJhbGciOiJIUzI1NiIsImtpZCIgOiAiYWQ1MjI3YTMtYmNmZC00Y2YwLWE3YjYtMzk5ODM1YTA4NTY2In0.eyJjaWQiOiJjdXN0b21lci1wb3J0YWwiLCJwdHkiOiJvcGVuaWQtY29ubmVjdCIsInJ1cmkiOiJodHRwczovL2FjY2Vzcy5yZWRoYXQuY29tL3dlYmFzc2V0cy9hdmFsb24vai9pbmNsdWRlcy9zZXNzaW9uL3NjcmliZS8_cmVkaXJlY3RUbz1odHRwcyUzQSUyRiUyRmFjY2Vzcy5yZWRoYXQuY29tIiwiYWN0IjoiQVVUSEVOVElDQVRFIiwibm90ZXMiOnsic2NvcGUiOiJvcGVuaWQiLCJpc3MiOiJodHRwczovL3Nzby5yZWRoYXQuY29tL2F1dGgvcmVhbG1zL3JlZGhhdC1leHRlcm5hbCIsInJlc3BvbnNlX3R5cGUiOiJjb2RlIiwiY29kZV9jaGFsbGVuZ2VfbWV0aG9kIjoicGxhaW4iLCJyZWRpcmVjdF91cmkiOiJodHRwczovL2FjY2Vzcy5yZWRoYXQuY29tL3dlYmFzc2V0cy9hdmFsb24vai9pbmNsdWRlcy9zZXNzaW9uL3NjcmliZS8_cmVkaXJlY3RUbz1odHRwcyUzQSUyRiUyRmFjY2Vzcy5yZWRoYXQuY29tIiwic3RhdGUiOiIyNWU5YTU3Ny1jNmM2LTRjNTgtODdkYi1kZDg2N2NlMTY5OTEiLCJub25jZSI6IjcyZTYxZGE0LWU4ZWItNGNlNC04OGQ5LWNkNjI5MTNiOTNhZCIsInJlc3BvbnNlX21vZGUiOiJmcmFnbWVudCJ9fQ.yup-VsZrVVS4ZNIMENeWq_ztNKFZt0ZxOgNGJw59KX0; BIGipServer~prod~keycloak-webssl-https=610731274.64288.0000; sso_origin_dc=origin-sso-phx2.redhat.com
+Upgrade-Insecure-Requests: 1
+
+username=rd.sangfor%40gmail.com&password=%40Sangfor123
+
+action="https://sso.redhat.com/auth/realms/redhat-external/login-actions/authenticate?code=FLKzDuk-Hqr1JRXtxNFpz7zJSCRM7Jy8awpPTdczVxI&execution=42ab36f8-26fd-4425-9aba-7792a9f08f59&client_id=customer-portal&tab_id=S-CECIQ6IeE"
+
+
+Cookie:
+rh_user=rd.sangfor|rd|P|;
+rh_locale=zh_CN;
+rh_user_id=51768269;
+rh_sso_session=1;
+chrome_session_id=821834|1593337111032;
+5de2ca7b93a8fe2d480b8245a8f255a2=50a415d4256361b710c6dcd56c76d13f;
+687975abb031448267d67b8718cb78ea=4c400006282c1e8ee844c3b0fc9a97b3;
+_redhat_downloads_session=JjxeTyhOZ1lAeLqmXTN23HGX7IZVAVgHPClGpemA0Hlr%2FhbHKzwsAlz17LmMl9aROkCFEdMLteIxy36CkT7EVMr4tV6sNmxbBnTwhhQq1SDnUZHyl51zOkmGEHbdPdsOj78ZgYtp8ZtMPEu3ipxr1%2FN3%2BcwpP6QakNGEt8%2FZwNoLXNe2KMYFVsP%2FNHeKb9bN8lPx0T%2FQ44mX2S%2BlL0U%3D--jhs2MpDQsjKSzJFA--0PaAJD464sUlgZITyaxTBQ%3D%3D;
+BIGipServer~prod~staticweb-webapp-http=761529610.20480.0000;
+rh_jwt=eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICItNGVsY19WZE5fV3NPVVlmMkc0UXhyOEdjd0l4X0t0WFVDaXRhdExLbEx3In0.eyJqdGkiOiIwYjJmNGQxOC00ODViLTRmYmYtYjFlYS04ZDMzZGM3ZjVlZGUiLCJleHAiOjE1OTMzMzg0MzUsIm5iZiI6MCwiaWF0IjoxNTkzMzM3NTM1LCJpc3MiOiJodHRwczovL3Nzby5yZWRoYXQuY29tL2F1dGgvcmVhbG1zL3JlZGhhdC1leHRlcm5hbCIsImF1ZCI6ImN1c3RvbWVyLXBvcnRhbCIsInN1YiI6ImY6NTI4ZDc2ZmYtZjcwOC00M2VkLThjZDUtZmUxNmY0ZmUwY2U2OnJkLnNhbmdmb3IiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJjdXN0b21lci1wb3J0YWwiLCJub25jZSI6Ijc3NzExMmJhLTY3ZmUtNDNiZS05NzRjLTg5MTZlODBmOTE1YiIsImF1dGhfdGltZSI6MTU5MzMzNzE4OSwic2Vzc2lvbl9zdGF0ZSI6IjZkM2UwZTQ1LTFmODYtNDk0MC04ZmQ2LTRlNGZlMGY1M2JhOCIsImFjciI6IjAiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cHM6Ly9wcm9kLmZvby5yZWRoYXQuY29tOjEzMzciLCJodHRwczovL3d3dy5yZWRoYXQuY29tIiwiaHR0cHM6Ly9hY2Nlc3MucmVkaGF0LmNvbSJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsiYXV0aGVudGljYXRlZCIsImNhbmRsZXBpbl9zeXN0ZW1fYWNjZXNzX3ZpZXdfZWRpdF9wZXJzb25hbCIsImlkcF9hdXRoZW50aWNhdGVkIiwicG9ydGFsX21hbmFnZV9zdWJzY3JpcHRpb25zIiwiZXJyYXRhOm5vdGlmaWNhdGlvbl9zdGF0dXNfZW5hYmxlZCIsImVycmF0YTpub3RpZmljYXRpb25fZGVsaXZlcnlfd2Vla2x5IiwicG9ydGFsX21hbmFnZV9jYXNlcyIsImVycmF0YTpub3RpZmljYXRpb246c2VjdXJpdHkiLCJlcnJhdGE6bm90aWZpY2F0aW9uX2xldmVsX3N5c3RlbS12aXNpYmxlIiwiZXJyYXRhOm5vdGlmaWNhdGlvbjpidWdmaXgiLCJhZG1pbjpvcmc6YWxsIiwidW1hX2F1dGhvcml6YXRpb24iLCJwb3J0YWxfc3lzdGVtX21hbmFnZW1lbnQiLCJyaGRfYWNjZXNzX21pZGRsZXdhcmUiLCJwb3J0YWxfZG93bmxvYWQiXX0sInJlc291cmNlX2FjY2VzcyI6eyJyaGQtZG0iOnsicm9sZXMiOlsicmh1c2VyIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJSRURIQVRfTE9HSU4iOiJyZC5zYW5nZm9yIiwibGFzdE5hbWUiOiJzYW5nZm9yIiwiY291bnRyeSI6IkNOIiwiYWNjb3VudF9udW1iZXIiOiI2MDgwMjc3IiwicHJlZmVycmVkX3VzZXJuYW1lIjoicmQuc2FuZ2ZvciIsImZpcnN0TmFtZSI6InJkIiwiYWNjb3VudF9pZCI6IjExNzI4MTc4IiwidXNlcl9pZCI6IjUxNzY4MjY5Iiwib3JnYW5pemF0aW9uX2lkIjoiMDBEbTAwMDAwMDAxMTZDIiwic2l0ZUlkIjoicmVkaGF0Iiwic2l0ZUlEIjoicmVkaGF0IiwicG9ydGFsX2lkIjoiMDYwNjAwMDAwMDBEMGFmIiwibGFuZyI6InpoX0NOIiwicmVnaW9uIjoiQ04iLCJlbWFpbCI6InJkLnNhbmdmb3JAZ21haWwuY29tIiwiUkhBVF9MT0dJTiI6InJkLnNhbmdmb3IiLCJ1c2VybmFtZSI6InJkLnNhbmdmb3IifQ.CpUNAy8RrPemybbp0oagAg1APRD7FEvYId3JFHdIiB0kzMvfqBTQM4cdiimj7Gr1nuwN5z6uIol2Ehf0grdJK4CCU0LoA3Maa7W9Yu_V199dXm7sBvVmy0YItGqtk4flW0dgO0Pjne0TgN62DBpBuTpnhzAtKP9ytTbKTVkTsmMafMcADQVfJIK8AMDm5fNyOeJPWnlluZ_TcwmJtGhSwbuKPQF00O86zc75LroC1SFUsCJv-q1TjAnx0oYLYLO2aSt0AQmD7b4IuDKi-3C0k51hAN3I8mRBM_F4Lj7VjW2eWGYKdEkbVENNGLrapW6yn60Ir4nmDNkSR93NtYtCBdzGAzKDHgtZWxcdmWAKK2AQ932DNBUcTbwB2IdRD9AcIxWzrJUJUA9w4VDT2RbZ14q_Z3jdcRNu4_vu2S5nD6oEHAfv7E0G6HMIIJsG1Y9MgKf__7sACSOWsu9Y4hIvo38Oi9vJWZsA1lho7sTuPNbz39lFJHBLeY8RHUMZ7sMLbSp9GFT7jLp2Jg8I3WE7tXCp53wBKPQRrKRbjmxALPotbKuXO1vyuoRmCoxmyfJj3Bxnu4Ph2bEIfpESI1u-THHXOnzzwfYMkqKx_abVRyoQ_wSDjc0pH6fRa3cCpKJA6pL4focxiY_YCDMFHuAacNXWVDgo_ycR13INw7PnwKs
+1593424171936.xcU1+6XsQ5ArI60IgTLugA==
+
+jwt第一段:
+eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICItNGVsY19WZE5fV3NPVVlmMkc0UXhyOEdjd0l4X0t0WFVDaXRhdExLbEx3In0
+解码后数据:
+{
+  "alg": "RS256",
+  "typ": "JWT",
+  "kid": "-4elc_VdN_WsOUYf2G4Qxr8GcwIx_KtXUCitatLKlLw"
+}
+
+jwt第二段:
+eyJqdGkiOiIzMzdmYmZhZC04NzZhLTQ5NTUtYjcyYS1hYWFmYjM2MjI0YjIiLCJleHAiOjE1OTMzOTg5MTUsIm5iZiI6MCwiaWF0IjoxNTkzMzk4MDE1LCJpc3MiOiJodHRwczovL3Nzby5yZWRoYXQuY29tL2F1dGgvcmVhbG1zL3JlZGhhdC1leHRlcm5hbCIsImF1ZCI6ImN1c3RvbWVyLXBvcnRhbCIsInN1YiI6ImY6NTI4ZDc2ZmYtZjcwOC00M2VkLThjZDUtZmUxNmY0ZmUwY2U2OnJkLnNhbmdmb3IiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJjdXN0b21lci1wb3J0YWwiLCJub25jZSI6ImFlZDA5NmUyLTVmYTItNDVkZS04YWQ2LTdkZDAxZWFkOWQ5NiIsImF1dGhfdGltZSI6MTU5MzM5ODAxMiwic2Vzc2lvbl9zdGF0ZSI6IjA4ZTJkNzk5LWFhNjItNDBmMC1iYTgyLWNmZDk0YzhjYmE2ZSIsImFjciI6IjAiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cHM6Ly9wcm9kLmZvby5yZWRoYXQuY29tOjEzMzciLCJodHRwczovL3d3dy5yZWRoYXQuY29tIiwiaHR0cHM6Ly9hY2Nlc3MucmVkaGF0LmNvbSJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsiYXV0aGVudGljYXRlZCIsImNhbmRsZXBpbl9zeXN0ZW1fYWNjZXNzX3ZpZXdfZWRpdF9wZXJzb25hbCIsImlkcF9hdXRoZW50aWNhdGVkIiwicG9ydGFsX21hbmFnZV9zdWJzY3JpcHRpb25zIiwiZXJyYXRhOm5vdGlmaWNhdGlvbl9zdGF0dXNfZW5hYmxlZCIsImVycmF0YTpub3RpZmljYXRpb25fZGVsaXZlcnlfd2Vla2x5IiwicG9ydGFsX21hbmFnZV9jYXNlcyIsImVycmF0YTpub3RpZmljYXRpb246c2VjdXJpdHkiLCJlcnJhdGE6bm90aWZpY2F0aW9uX2xldmVsX3N5c3RlbS12aXNpYmxlIiwiZXJyYXRhOm5vdGlmaWNhdGlvbjpidWdmaXgiLCJhZG1pbjpvcmc6YWxsIiwidW1hX2F1dGhvcml6YXRpb24iLCJwb3J0YWxfc3lzdGVtX21hbmFnZW1lbnQiLCJyaGRfYWNjZXNzX21pZGRsZXdhcmUiLCJwb3J0YWxfZG93bmxvYWQiXX0sInJlc291cmNlX2FjY2VzcyI6eyJyaGQtZG0iOnsicm9sZXMiOlsicmh1c2VyIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJSRURIQVRfTE9HSU4iOiJyZC5zYW5nZm9yIiwibGFzdE5hbWUiOiJzYW5nZm9yIiwiY291bnRyeSI6IkNOIiwiYWNjb3VudF9udW1iZXIiOiI2MDgwMjc3IiwicHJlZmVycmVkX3VzZXJuYW1lIjoicmQuc2FuZ2ZvciIsImZpcnN0TmFtZSI6InJkIiwiYWNjb3VudF9pZCI6IjExNzI4MTc4IiwidXNlcl9pZCI6IjUxNzY4MjY5Iiwib3JnYW5pemF0aW9uX2lkIjoiMDBEbTAwMDAwMDAxMTZDIiwic2l0ZUlkIjoicmVkaGF0Iiwic2l0ZUlEIjoicmVkaGF0IiwicG9ydGFsX2lkIjoiMDYwNjAwMDAwMDBEMGFmIiwibGFuZyI6InpoX0NOIiwicmVnaW9uIjoiQ04iLCJlbWFpbCI6InJkLnNhbmdmb3JAZ21haWwuY29tIiwiUkhBVF9MT0dJTiI6InJkLnNhbmdmb3IiLCJ1c2VybmFtZSI6InJkLnNhbmdmb3IifQ
+解码后数据:
+{
+  "jti": "337fbfad-876a-4955-b72a-aaafb36224b2",
+  "exp": 1593398915,
+  "nbf": 0,
+  "iat": 1593398015,
+  "iss": "https://sso.redhat.com/auth/realms/redhat-external",
+  "aud": "customer-portal",
+  "sub": "f:528d76ff-f708-43ed-8cd5-fe16f4fe0ce6:rd.sangfor",
+  "typ": "Bearer",
+  "azp": "customer-portal",
+  "nonce": "aed096e2-5fa2-45de-8ad6-7dd01ead9d96",
+  "auth_time": 1593398012,
+  "session_state": "08e2d799-aa62-40f0-ba82-cfd94c8cba6e",
+  "acr": "0",
+  "allowed-origins": [
+    "https://prod.foo.redhat.com:1337",
+    "https://www.redhat.com",
+    "https://access.redhat.com"
+  ],
+  "realm_access": {
+    "roles": [
+      "authenticated",
+      "candlepin_system_access_view_edit_personal",
+      "idp_authenticated",
+      "portal_manage_subscriptions",
+      "errata:notification_status_enabled",
+      "errata:notification_delivery_weekly",
+      "portal_manage_cases",
+      "errata:notification:security",
+      "errata:notification_level_system-visible",
+      "errata:notification:bugfix",
+      "admin:org:all",
+      "uma_authorization",
+      "portal_system_management",
+      "rhd_access_middleware",
+      "portal_download"
+    ]
+  },
+  "resource_access": {
+    "rhd-dm": {
+      "roles": [
+        "rhuser"
+      ]
+    },
+    "account": {
+      "roles": [
+        "manage-account",
+        "manage-account-links",
+        "view-profile"
+      ]
+    }
+  },
+  "REDHAT_LOGIN": "rd.sangfor",
+  "lastName": "sangfor",
+  "country": "CN",
+  "account_number": "6080277",
+  "preferred_username": "rd.sangfor",
+  "firstName": "rd",
+  "account_id": "11728178",
+  "user_id": "51768269",
+  "organization_id": "00Dm0000000116C",
+  "siteId": "redhat",
+  "siteID": "redhat",
+  "portal_id": "06060000000D0af",
+  "lang": "zh_CN",
+  "region": "CN",
+  "email": "rd.sangfor@gmail.com",
+  "RHAT_LOGIN": "rd.sangfor",
+  "username": "rd.sangfor"
+}
+
+https://sso.redhat.com/auth/realms/redhat-external/protocol/openid-connect/auth?client_id=customer-portal&redirect_uri=https%3A%2F%2Faccess.redhat.com%2Fwebassets%2Favalon%2Fj%2Fincludes%2Fsession%2Fscribe%2F%3FredirectTo%3Dhttps%3A%2F%2Faccess.redhat.com&state=ee983228-b950-4e69-82f8-1d201d73b885&nonce=38f73164-a3bb-49bb-8b7b-9f7d64103b61&response_mode=fragment&response_type=code&scope=openid
+https://sso.redhat.com/auth/realms/redhat-external/protocol/openid-connect/auth?client_id=customer-portal&redirect_uri=https%3A%2F%2Faccess.redhat.com%2Fwebassets%2Favalon%2Fj%2Fincludes%2Fsession%2Fscribe%2F%3FredirectTo%3Dhttps%253A%252F%252Faccess.redhat.com&state=ee983228-b950-4e69-82f8-1d201d73b885&nonce=38f73164-a3bb-49bb-8b7b-9f7d64103b61&response_mode=fragment&response_type=code&scope=openid
+对应的查询字符串参数:
+client_id	"customer-portal"
+redirect_uri	"https://access.redhat.com/webassets/avalon/j/includes/session/scribe/?redirectTo=https%3A%2F%2Faccess.redhat.com"
+state	"ee983228-b950-4e69-82f8-1d201d73b885"
+nonce	"38f73164-a3bb-49bb-8b7b-9f7d64103b61"
+response_mode	"fragment"
+response_type	"code"
+scope	"openid"

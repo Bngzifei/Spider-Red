@@ -1,0 +1,11 @@
+url:
+
+动态加载的页面:需要模拟浏览器解析js的行为:
+https://catalog.redhat.com/hardware/servers/search?p=1
+
+单页15条:
+//*[@id="nr-search-all"]/article
+
+
+但是，并非所有的网页抓取都是这么简单的，有些网页就是动态网页，指的是，页面中的图片元素是通过js生成出来的，
+原本的html中并没有图片的src信息，所以我们希望Python能够模拟浏览器加载js，并且返回执行js后的页面，这样就能看到src信息了
